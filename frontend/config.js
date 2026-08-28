@@ -1,3 +1,3 @@
 // Change this to your deployed Railway backend URL once you have it.
 // Example: "https://task-api-backend-production.up.railway.app"
-const API_URL = "http://localhost:5000";
+const API_URL = "https://your-actual-url.up.railway.app";
